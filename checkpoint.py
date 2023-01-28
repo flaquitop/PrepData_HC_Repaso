@@ -28,6 +28,7 @@ def ProximoPrimo(actual_primo):
         ProximoPrimo(8) debe retornar nulo
     '''
     #Tu código aca:
+    
     return 'Función incompleta'
 
 def ClaseAnimal(especie, color):

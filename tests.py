@@ -66,6 +66,7 @@ class HenryChallenge(unittest.TestCase):
 
 resultado_test = unittest.main(argv=[''], verbosity=2, exit=False)
 
+
 hc_tests = resultado_test.result.testsRun
 hc_fallas = len(resultado_test.result.failures)
 hc_errores = len(resultado_test.result.errors)
